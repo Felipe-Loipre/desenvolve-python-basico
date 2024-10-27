@@ -14,5 +14,5 @@ PDITA651
 - 📫 Como entrar em contato comigo:
   - (33) 997027112,
   - felipe.freitas@pditabira.com,
-  - [![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:63937)
+  - [![Discord Presence](https://lanyard.cnrad.dev/api/:63937)](https://discord.com/users/:63937)
 
