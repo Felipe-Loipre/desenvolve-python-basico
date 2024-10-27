@@ -1,29 +1,22 @@
-# Olá, me chamo Felipe Loipre !
-
-Inicio ao Python
-Projeto Desenvolve - Itabira
-Programação básica com Python
-PDITA651
-
-- 🔭 Atualmente estou trabalhando como Analista de Sistemas.
-- 👯 Estou procurando colaborar em áreas de segurança de alarmes.
-- 🤔 Estou procurando ajuda com melhorias pessoais, educacionais e profissionais.
-- 💬 Pergunte-me sobre qualquer coisa que terei o prazer de responder, espero poder saber sempre um pouuco mais com uma conversa.
-- ⚡ Curiosidade: Sempre fui muito focado na area de tecnologia, atualmente curto muito a parte tecnica do meu trabalho e amo estar ao lado da minha namorada jogando/estudando a maior parte do tempo.
-- 🙏 Agradecimento especial a Edvania que me apoia todos os dias para ser uma pessoa melhor, minha mãe e a Deus sempre <3
-- 📫 Como entrar em contato comigo:
-  - (33) 997027112,
-  - felipe.freitas@pditabira.com,
- 
-
-
-
-
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Faça uma breve apresentação sua com o seu nome e não esqueça a <strong>sua stack</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+ # Olá, me chamo Felipe Loipre !
+
+  Inicio ao Python
+  Projeto Desenvolve - Itabira
+  Programação básica com Python
+  PDITA651
+
+  - 🔭 Atualmente estou trabalhando como Analista de Sistemas.
+  - 👯 Estou procurando colaborar em áreas de segurança de alarmes.
+  - 🤔 Estou procurando ajuda com melhorias pessoais, educacionais e profissionais.
+  - 💬 Pergunte-me sobre qualquer coisa que terei o prazer de responder, espero poder saber sempre um pouuco mais com uma conversa.
+  - ⚡ Curiosidade: Sempre fui muito focado na area de tecnologia, atualmente curto muito a parte tecnica do meu trabalho e amo estar ao lado da minha namorada jogando/estudando a maior parte do tempo.
+  - 🙏 Agradecimento especial a Edvania que me apoia todos os dias para ser uma pessoa melhor, minha mãe e a Deus sempre <3
+  - 📫 Como entrar em contato comigo:
+    - (33) 997027112,
+    - felipe.freitas@pditabira.com,
 </p>
 
 <p align="left">
