@@ -10,21 +10,37 @@
 
   - 🔭 Atualmente estou trabalhando como Analista de Sistemas.
   - 👯 Estou procurando colaborar em áreas de segurança de alarmes.
-  - 🤔 Estou procurando ajuda com melhorias pessoais, educacionais e profissionais.
-  - 💬 Pergunte-me sobre qualquer coisa que terei o prazer de responder, espero poder saber sempre um pouuco mais com uma conversa.
-  - ⚡ Curiosidade: Sempre fui muito focado na area de tecnologia, atualmente curto muito a parte tecnica do meu trabalho e amo estar ao lado da minha namorada jogando/estudando a maior parte do tempo.
+  - 🤔 Estou em busca por melhoria contínua profissional e educacional.
+  - 💬 Caso queira conversar, estou a dispoição as forma de contato estão no fim.
+  - ⚡ Curiosidade: Sou curioso quando o assunto se trata de tecnologia, em 2019 ganhei em primeiro lugar a Maratona de Programação na UNIFEI confecsionada pelo SEAAC e o corpo discête de computação da instituição. 
   - 🙏 Agradecimento especial a Edvania que me apoia todos os dias para ser uma pessoa melhor, minha mãe e a Deus sempre <3
-  - 📫 Como entrar em contato comigo:
-    - (33) 997027112,
-    - felipe.freitas@pditabira.com,
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
+  🦄 Linguagens: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="20px" height="20px" />
+                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="20px" height="20px"/>
+                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="20px" height="20px" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"width="20px" height="20px" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"width="20px" height="20px" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"width="20px" height="20px" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"width="20px" height="20px" />
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+  💼 Ferramentas: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg"width="20px" height="20px" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" width="20px" height="20px" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" width="20px" height="20px" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"width="20px" height="20px" />      
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg"width="20px" height="20px" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"width="20px" height="20px" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"width="20px" height="20px" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg"width="20px" height="20px" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg"width="20px" height="20px" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg"width="20px" height="20px" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-plain.svg"width="20px" height="20px" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg"width="20px" height="20px" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original-wordmark.svg"width="20px" height="20px" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"width="20px" height="20px" />
 </p>
 
 <p align="left">
