@@ -14,5 +14,4 @@ PDITA651
 - 📫 Como entrar em contato comigo:
   - (33) 997027112,
   - felipe.freitas@pditabira.com,
-  - ![My Discord](https://discord-readme-badge.vercel.app/api?id=felipeloipre_63937)
-
+  - <img src="https://discord.com/api/guilds/felipeloipre_63937/widget.png?style=banner2" alt="Discord Banner 2"/>
