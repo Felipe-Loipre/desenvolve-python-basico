@@ -46,7 +46,7 @@ PDITA651
   <a href="#" title="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5533997027112?text=Tudo%20bem%3F%20V%C3%AD%20seu%20perfil%20no%20GitHub..." alt="WhatsApp"/></a>
   <a href="#" title="Discord">
-  <img src="https://img.shields.io/discourse/users=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://discord.com/users/felipeloipre_63937" alt="Discord"/></a>
+  <img src="https://img.shields.io/discourse/users=flat-square&labelColor=3b5998&logo=discord&logoColor=white&link=https://discord.com/users/felipeloipre_63937" alt="Discord"/></a>
   <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=instagram.com/_loipre" alt="Instagram"/></a>
 </p>
