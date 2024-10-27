@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/584491f7-8ecf-4ed2-8121-ec3fbca36dbe)# desenvolve-python-basico
 # Olá, me chamo Felipe Loipre !
 
 Inicio ao Python
@@ -15,6 +14,5 @@ PDITA651
 - 📫 Como entrar em contato comigo:
   - (33) 997027112,
   - felipe.freitas@pditabira.com,
-  - [![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/felipeloipre_63937)
-  - [![My Discord (felipeloipre_63937)](https://img.shields.io/badge/My-Discord-%235865F2.svg)](https://discord.com/users/felipeloipre_63937)
+  - [![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/63937)
 
