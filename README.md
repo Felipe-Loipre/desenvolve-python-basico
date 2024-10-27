@@ -4,12 +4,15 @@
  # Olá, me chamo Felipe, o Loipre !
 
   Inicio ao Python
+  
   Projeto Desenvolve - Itabira
+  
   Programação básica com Python
+  
   PDITA651
 
   - 🔭 Atualmente estou trabalhando como Analista de Sistemas.
-  - 👯 Estou procurando colaborar em áreas de segurança de alarmes.
+  - 👯 Busco colaborar em áreas de segurança de alarmes.
   - 🤔 Estou em busca por melhoria contínua profissional e educacional.
   - 💬 Caso queira conversar, estou a dispoição as forma de contato estão no fim.
   - ⚡ Curiosidade: Sou curioso quando o assunto se trata de tecnologia, em 2019 ganhei em primeiro lugar a Maratona de Programação na UNIFEI confecsionada pelo SEAAC e o corpo discête de computação da instituição. 
