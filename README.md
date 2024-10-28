@@ -52,19 +52,19 @@
 
 <p align="left">
   <p align="left">
-  <a href="mailto:felipe.freitas@pditabira.com" title="Gmail">
+  <a href="_"blank""mailto:felipe.freitas@pditabira.com" title="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/loipre" title="LinkedIn">
+  <a href="_"blank""https://www.linkedin.com/in/loipre" title="LinkedIn">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://wa.me/5533997027112?text=Tudo%20bem%3F%20V%C3%AD%20seu%20perfil%20no%20GitHub..." title="WhatsApp">
+  <a href="_"blank""https://wa.me/5533997027112?text=Tudo%20bem%3F%20V%C3%AD%20seu%20perfil%20no%20GitHub..." title="WhatsApp">
     <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
-  <a href="https://www.discord.com/users/felipeloipre_63937" title="Discord">
+  <a href="_"blank""https://www.discord.com/users/felipeloipre_63937" title="Discord">
     <img src="https://img.shields.io/badge/-Discord-3b5998?style=flat-square&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="https://instagram.com/_loipre" title="Instagram">
+  <a href="_"blank""https://instagram.com/_loipre" title="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
