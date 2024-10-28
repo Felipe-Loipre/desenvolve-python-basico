@@ -52,11 +52,11 @@
 
 <p align="left">
   <p align="left">
-  <a target="_blank""mailto:felipe.freitas@pditabira.com" title="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="mailto:felipe.freitas@pditabira.com" title="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail" target="_blank" />
   </a>
-  <a target="_blank""https://www.linkedin.com/in/loipre" title="LinkedIn">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="_blank""https://www.linkedin.com/in/loipre" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" target="_blank" />
   </a>
   <a target="_blank""https://wa.me/5533997027112?text=Tudo%20bem%3F%20V%C3%AD%20seu%20perfil%20no%20GitHub..." title="WhatsApp">
     <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
