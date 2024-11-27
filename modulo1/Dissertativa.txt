@@ -1,0 +1,10 @@
+O primeiro dígito do resultado (𝑑𝑖𝑔𝑖𝑡𝑜1) é obtido subtraindo 1 de 𝑛. Ou seja, 
+𝑑𝑖𝑔𝑖𝑡𝑜1=𝑛−1.
+O segundo dígito (𝑑𝑖𝑔𝑖𝑡𝑜2) é obtido calculando 10−𝑛. Ou seja, 
+𝑑𝑖𝑔𝑖𝑡𝑜2=10−𝑛.
+O resultado final é formado combinando os dois dígitos, de modo que 9×𝑛=𝑑𝑖𝑔𝑖𝑡𝑜1×10+𝑑𝑖𝑔𝑖𝑡𝑜2.
+Por exemplo, para 𝑛=68
+digito1=5−1=4
+digito2=10−5=5
+9×5=(4×10)+5=40+5=45
+Este truque é simples e ajuda a realizar cálculos mentais de forma rápida e eficiente.
